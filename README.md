@@ -38,7 +38,7 @@ To run with batchsize=1:
 ./bin/giexec --model=data/samples/googlenet/googlenet.caffemodel --deploy=data/samples/googlenet/googlenet.prototxt --output=prob --int8 --batch=2
 ```
 ### Benchmarking with AlexNet
-Download the `alexnet` folder in this git repo and move it into `/usr/src/gie_samples/samples/data/samples`.
+Download the `bvlc_alexnet.caffemodel` and `deploy.prototxt` file from [here](https://github.com/yczeng/dell-benchmarking), and save it into a folder you make and name `alexnet`, which you move into `/usr/src/gie_samples/samples/data/samples`.
 Make sure you're in the correct folder: `/usr/src/gie_samples/samples`
 Same as for googLeNet, you want to run benchmarking with int8 and "output=prob" while varying the batch size as needed.
 To run with batchsize=1:
