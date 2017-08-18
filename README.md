@@ -59,3 +59,7 @@ To run, add `mpirun -np 4`, replacing 4 with the number of GPUs in your server s
 ## Converting data to images per second.
 Copy and paste output in a text file with the times separated by the batch file. See `AlexNetData` as a sample file for format.
 Run the python script `processdata.py` to have times per run automatically converted to images/sec.
+
+You'll want to make sure that the AlexNet data is saved in a file called `AlexNetData` and the GoogLeNet data is saved in a file called `GoogLeNetData`, and update line 2 in the script to reflect where you've stored these files.
+
+Or otherwise, just update 2, 37, and 38 as needed.
