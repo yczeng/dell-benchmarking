@@ -1,0 +1,110 @@
+AlexNet
+
+Batch: 1
+Average over 10 runs is 1.47522 ms.
+Average over 10 runs is 1.47262 ms.
+Average over 10 runs is 1.47367 ms.
+Average over 10 runs is 1.47393 ms.
+Average over 10 runs is 1.47472 ms.
+Average over 10 runs is 1.47225 ms.
+Average over 10 runs is 1.47313 ms.
+Average over 10 runs is 1.47323 ms.
+Average over 10 runs is 1.4738 ms.
+Average over 10 runs is 1.47323 ms.
+
+Batch: 32
+Average over 10 runs is 2.81442 ms.
+Average over 10 runs is 2.81012 ms.
+Average over 10 runs is 2.80665 ms.
+Average over 10 runs is 2.80535 ms.
+Average over 10 runs is 2.80357 ms.
+Average over 10 runs is 2.80484 ms.
+Average over 10 runs is 2.80112 ms.
+Average over 10 runs is 2.80164 ms.
+Average over 10 runs is 2.80215 ms.
+Average over 10 runs is 2.80437 ms.
+
+Batch: 64
+Average over 10 runs is 4.47095 ms.
+Average over 10 runs is 4.46461 ms.
+Average over 10 runs is 4.46326 ms.
+Average over 10 runs is 4.46198 ms.
+Average over 10 runs is 4.4475 ms.
+Average over 10 runs is 4.44686 ms.
+Average over 10 runs is 4.44991 ms.
+Average over 10 runs is 4.45554 ms.
+Average over 10 runs is 4.45166 ms.
+Average over 10 runs is 4.45422 ms.
+
+
+Batch: 128
+Average over 10 runs is 7.86545 ms.
+Average over 10 runs is 7.86887 ms.
+Average over 10 runs is 7.86758 ms.
+Average over 10 runs is 7.86209 ms.
+Average over 10 runs is 7.87508 ms.
+Average over 10 runs is 7.8654 ms.
+Average over 10 runs is 7.8679 ms.
+Average over 10 runs is 7.83657 ms.
+Average over 10 runs is 7.86006 ms.
+Average over 10 runs is 7.84578 ms.
+
+Batch: 256
+Average over 10 runs is 14.9447 ms.
+Average over 10 runs is 14.9803 ms.
+Average over 10 runs is 14.9712 ms.
+Average over 10 runs is 14.9263 ms.
+Average over 10 runs is 14.95 ms.
+Average over 10 runs is 14.9589 ms.
+Average over 10 runs is 14.9272 ms.
+Average over 10 runs is 14.956 ms.
+Average over 10 runs is 14.9997 ms.
+Average over 10 runs is 14.9498 ms.
+
+Batch: 512
+Average over 10 runs is 29.1145 ms.
+Average over 10 runs is 29.1081 ms.
+Average over 10 runs is 29.1183 ms.
+Average over 10 runs is 29.1877 ms.
+Average over 10 runs is 29.193 ms.
+Average over 10 runs is 29.1869 ms.
+Average over 10 runs is 29.1781 ms.
+Average over 10 runs is 29.117 ms.
+Average over 10 runs is 29.1752 ms.
+Average over 10 runs is 29.1378 ms.
+
+Batch: 1024
+Average over 10 runs is 57.4266 ms.
+Average over 10 runs is 57.5284 ms.
+Average over 10 runs is 57.4825 ms.
+Average over 10 runs is 57.5848 ms.
+Average over 10 runs is 57.4405 ms.
+Average over 10 runs is 57.4965 ms.
+Average over 10 runs is 57.583 ms.
+Average over 10 runs is 57.5022 ms.
+Average over 10 runs is 57.5782 ms.
+Average over 10 runs is 57.5871 ms.
+
+Batch: 2048
+Average over 10 runs is 113.913 ms.
+Average over 10 runs is 114.053 ms.
+Average over 10 runs is 113.892 ms.
+Average over 10 runs is 113.905 ms.
+Average over 10 runs is 114.054 ms.
+Average over 10 runs is 113.843 ms.
+Average over 10 runs is 114.012 ms.
+Average over 10 runs is 114.061 ms.
+Average over 10 runs is 113.835 ms.
+Average over 10 runs is 113.908 ms.
+
+Batch: 4096
+Average over 10 runs is 230.161 ms.
+Average over 10 runs is 228.967 ms.
+Average over 10 runs is 230.344 ms.
+Average over 10 runs is 226.904 ms.
+Average over 10 runs is 227.109 ms.
+Average over 10 runs is 227.356 ms.
+Average over 10 runs is 226.952 ms.
+Average over 10 runs is 227.012 ms.
+Average over 10 runs is 227.352 ms.
+Average over 10 runs is 227.004 ms.
