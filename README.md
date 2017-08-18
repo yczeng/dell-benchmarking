@@ -28,7 +28,9 @@ to see the help screen:
 ```
 ./bin/giexec
 ```
-to run googlenet on one GPU with batch size=1:
+### Benchmarking with GoogLeNet 
+GoogLeNet is already contained within the TensorRT program. You want to run benchmarking with int8, and "output=prob" while varying the batch size as needed.
+To run with batchsize=1:
 ```
 ./bin/giexec --model=data/samples/googlenet/googlenet.caffemodel --deploy=data/samples/googlenet/googlenet.prototxt --output=prob --int8 --batch=2
 ```
