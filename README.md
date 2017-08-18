@@ -1,12 +1,15 @@
 # dell-benchmarking
 
-Documentation for how to do deep learning benchmarking with TensorRT v2
+Documentation for how to do deep learning benchmarking with TensorRT v2 with the giexec module.
 
+## Download programs
 Download cuda & follow instructions to install:
 https://developer.nvidia.com/cuda-downloads
 
 Install TensorRT v2:
 https://developer.nvidia.com/tensorrt
+
+## Benchmarking with giexec module
 
 cd into the correct folder to do benchmarking giexec:
 ```
