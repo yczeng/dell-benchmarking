@@ -49,9 +49,12 @@ To run with batchsize=1:
 ```
 ### Benchmarking with multiple GPUs in the server setup
 Change line 13 in `Makefile.giexec` from "CC = g++" to "CC = mpicxx"
+
 Download Open MPI: https://www.open-mpi.org/software/ompi/v2.1/
+
 Replace the old `giexec.cpp` file with the one contained in the repo.
 
+To run, add `mpirun -np 4`, replacing 4 with the number of GPUs in your server setup, in front of the commands starting with `./bin/giexec/` listed above.
 
 ## Converting data to images per second.
 Copy and paste output in a text file with the times separated by the batch file. See `AlexNetData` as a sample file for format.
