@@ -47,3 +47,5 @@ To run with batchsize=1:
 ```
 ./bin/giexec --model=data/samples/alexnet/bvlc_alexnet.caffemodel --deploy=data/samples/alexnet/deploy.prototxt --output=prob --int8 --batch=1
 ```
+## Converting data to images per second.
+Copy and paste output in a text file with the times separated by the batch file. See `AlexNetData` as a sample file for format.
