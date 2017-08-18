@@ -49,3 +49,5 @@ To run with batchsize=1:
 ```
 ## Converting data to images per second.
 Copy and paste output in a text file with the times separated by the batch file. See `AlexNetData` as a sample file for format.
+Run the python script `processdata.py` to have times per run automatically converted to images/sec.
+
