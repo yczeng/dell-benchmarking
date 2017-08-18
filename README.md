@@ -9,6 +9,9 @@ https://developer.nvidia.com/cuda-downloads
 Install TensorRT v2:
 https://developer.nvidia.com/tensorrt
 
+Install PuTTY to ssh into Dell servers:
+http://www.putty.org/
+
 ## Benchmarking with giexec module
 
 cd into the correct folder to do benchmarking giexec:
